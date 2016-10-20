@@ -9,3 +9,9 @@ Git second session
 Hello saurabh patil
 #This is another example for conflict.
 #This is me,vivek .
+i m ritesh
+
+This is another example for conflict.
+this is triptesh
+
+
